@@ -110,12 +110,23 @@ h1.top {
 	border-top-right-radius: 40px;
 }
 
-img#hitlogo {
-	float: left;
-	padding-left: 81px;
-	padding-bottom: 81px;
-	vertical-align: bottom;
+img#logo1 {
+	position: absolute;
+	left: 158px;
+	top: 142px;
+	padding-left: 60px;
+	width: 1000px;
 }
+
+img#logo2 {
+	position: absolute;
+	left: 3966px;
+	top: 128px;
+	
+	width: 1000px;
+	
+}
+
 
 img#fig1 {
 	padding: 24px 60px 24px 60px;
